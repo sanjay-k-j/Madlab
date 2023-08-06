@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-EditText pn;
+EditText pnno;
 Button clearbtn,savebtn,callbtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
